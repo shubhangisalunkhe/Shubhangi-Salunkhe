@@ -1,0 +1,1 @@
+document.getElementById('exampleInputEmail1').innerHTML
